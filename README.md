@@ -9,3 +9,7 @@ Open `dist/index.html` in a browser, or serve `dist/` with a static web server. 
 ## Current limitations
 
 The framing checks are user confirmations. The app rejects images below 1000 × 700 pixels but cannot verify roof visibility, perspective, blur, or measurement accuracy automatically. It does not calculate roof area.
+
+## Install on iPhone
+
+Open the [live app](https://roof-capture-guide.coral-ball-5810.chatgpt.site) in Safari. Tap Share, then **Add to Home Screen**. Open the new icon to run it like an app. Photos are held only during the current session, so save them before leaving the capture.
